@@ -66,7 +66,6 @@ The setup ensures minimal downtime and efficient failover between two AWS region
    9.NGINX (on Ubuntu)
 
 ## 📊 Architecture Diagram
-*(Insert your architecture diagram image here)*  
-Example:  
-```markdown
-![AWS HADR Architecture](path/to/diagram.png)
+![Mumbai](https://github.com/user-attachments/assets/43e84b09-2d79-4811-8107-3e128d5fb16e)
+Download the above architectural diagram :
+[Mumbai.pdf](https://github.com/user-attachments/files/21706934/Mumbai.pdf)
